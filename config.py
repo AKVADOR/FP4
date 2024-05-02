@@ -9,7 +9,7 @@ MAX_USER_STT_BLOCKS = 10
 MAX_USER_TTS_SYMBOLS = 5000
 MAX_USER_GPT_TOKENS = 2000
 
-HOME = './'
+HOME = '/home/student/gpt_bot'
 LOGS = f'{HOME}logs.log'
 DB_FILE = f'{HOME}database.db'
 SYSTEM_PROMPT = [{'role': 'system', 'text': 'Ты весёлый собеседник. Общайся с пользователем на "ты" и используй юмор. Не объясняй, что ты умеешь и можешь. Общайся как человек. Отвечай коротко, как в переписке.'}]
