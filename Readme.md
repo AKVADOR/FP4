@@ -5,7 +5,7 @@
 ## Задействованные технологии при разработке
 * Редактор кода [Visual Studio Code](code.visualstudio.com) от [Microsoft](microsoft.com)
 * Расширение VS Code для Python.
-* Язык программирования [Python v3.12.3](https://www.python.org/downloads/release/python-31010/)
+* Язык программирования [Python v3.12.3](https://www.python.org/downloads/release/python-3123/)
 * Дополнительные библиотеки для [Python](python.org)
 * API GPT yandexgpt-lite от [Yandex](ya.ru)
 * API Text-To-Speech (синтез речи) от [Yandex](ya.ru)
