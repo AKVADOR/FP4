@@ -5,7 +5,7 @@
 ## Задействованные технологии при разработке
 * Редактор кода [Visual Studio Code](code.visualstudio.com) от [Microsoft](microsoft.com)
 * Расширение VS Code для Python.
-* Язык программирования [Python v3.10.10](https://www.python.org/downloads/release/python-31010/)
+* Язык программирования [Python v3.12.3](https://www.python.org/downloads/release/python-31010/)
 * Дополнительные библиотеки для [Python](python.org)
 * API GPT yandexgpt-lite от [Yandex](ya.ru)
 * API Text-To-Speech (синтез речи) от [Yandex](ya.ru)
@@ -23,5 +23,9 @@
 * /start - Запускает бота.
 * /help - Выводит вспомогательное сообщение пользователю.
 * /debug - Выводит информацию для отладки.
-* /tts - Комадна для проверки работы text-to-speech
+* /tts - Команда для проверки работы text-to-speech
 * /stt - Команда для проверки работы speech-to-text
+
+## Установка
+* Для установки бота нужно ввести следующую команду `pip install -r requirements.txt`
+* Для запуска бота нужно ввести следующую команду `python3 bot.py`
